@@ -11,3 +11,6 @@ virtual\Scripts\activate
     +django-admin startproject <name>
 -tạo 1 app
     py manage.py startapp <name>
+-
+    python manage.py migrate
+tạo readme.md : echo "# Softwave-Technology---Website" >> README.md
